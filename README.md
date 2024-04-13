@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VOCdevShy
+- 👋 Hi, I’m @VOCdevShy a dev from @VOCinc
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on nothing right now
